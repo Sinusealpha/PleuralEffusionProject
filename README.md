@@ -10,6 +10,6 @@ source: https://www.uptodate.com/contents/thoracentesis-beyond-the-basics/print#
 
 -- the article used as the reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050067/
 
--- my telegram post on this project: 
+-- my telegram post on this project: https://t.me/Sinusealpha_Channel/403
 
 hope you find it useful and also inspiring to make your own codes based on medical algorithms! :)

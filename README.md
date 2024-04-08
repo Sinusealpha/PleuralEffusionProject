@@ -12,4 +12,4 @@ source: https://www.uptodate.com/contents/thoracentesis-beyond-the-basics/print#
 
 -- my telegram post on this project: https://t.me/Sinusealpha_Channel/403
 
-hope you find it useful and also inspiring to make your own codes based on medical algorithms! :)
+hope you find it useful and also inspiring to write your own codes based on medical algorithms (that is maybe helpful for you as it was for me)! :)
